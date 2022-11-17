@@ -65,7 +65,6 @@ Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais efi
  ### :hammer_and_wrench: Ferramentas e Tecnologias
  - GitHub
  - Conceito de Cadeia de Suprimentos: R.H. BALLOU
- - 5W2H 
  - Microsoft Power BI
   
  <a href="#inicio">[Voltar ao início]</a>
