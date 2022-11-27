@@ -7,7 +7,7 @@
      <a href="#status">Status</a> •
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#entregas">Entregas</a> • 
-     <a href="#equipe">Equipe</a> 
+     <a href="#equipe">Equipe</a> • 
 </p>
 
 <span id="sobre">
