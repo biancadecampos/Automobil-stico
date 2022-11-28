@@ -79,10 +79,9 @@ Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais efi
  
 - **Camada de dados:** responsável pelo armazenamento dos dados coletados, essa camada aloca todas as informações em tabelas relacionais na nuvem provisionada pela Microsoft;
 - **Camada de usuário:** responsável pela interação do usuário com o sistema, por meio de uma interface gráfica que permita editar e consultar as informações contidas na base de dados.
-
-
-
- ### Equipe 💻💼
+ 
+ 
+### Equipe  💻🖊️
  
  Essa apresentação é a 4ª sprint do API, vir com o intuito de apresentar minha equipe que me acompanhou nesse semestre.
  <br><br>
