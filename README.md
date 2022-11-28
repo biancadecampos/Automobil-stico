@@ -26,7 +26,7 @@
 
 **3ª  17.11.22**
 
-**4ª  01.12.22**
+**4ª  29.11.22**
 <span id="requisitos">
 
 ### :clipboard: Sprints
@@ -49,6 +49,9 @@ Através do Software Power BI, levantamos os dados necessários para conheciment
 Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais eficaz e avançamos como equipe.
 
   
+ **4ª Sprint**
+ 
+ É o encerramento do semestre, hora de mostrarmos aos professores tudo aquilo que aprendemos durante este período. Conclusão de mais um ciclo.
 
   
  </p>
