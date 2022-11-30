@@ -55,7 +55,7 @@ Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais efi
   
  <p><a href="https://app.powerbi.com/groups/me/reports/1066aea9-7451-442f-ac87-e043cef51f83/ReportSection">4ª Sprint</a></p>
   
- <p><a href="Power BI[(https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=a598a19b-9e8b-47c2-b50b-8d5a8e33ae0c&reportPage=ReportSection&bookmarkGuid=02b886c9-9e68-4c90-8485-f7e501e8611d)"></a></p>|
+
   
  </p>
 
