@@ -37,7 +37,7 @@
 **1ª Sprint**
 
 O tema abordado é sobre a Cadeia Produtiva Automobilística, apresentamos o Cluster Regional, o objetivo é ampliar as informações sobre os fornecedores, sobre os produtos mais exportados e importados da Região do Vale do Paraíba e a estrutura do grupo é baseada de acordo com a Metodologia SCRUM.
-<p><a href="">1ª Sprint</a></p>
+<p><a href="https://github.com/biancadecampos/Automobil-stico/blob/1%C2%AA-sprint/1%C2%AASprint_Cadeia_Automotiva.pdf">1ª Sprint</a></p>
 
 
 **2ª Sprint**
