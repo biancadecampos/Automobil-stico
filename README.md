@@ -43,7 +43,7 @@ O tema abordado é sobre a Cadeia Produtiva Automobilística, apresentamos o Clu
 **2ª Sprint**
 
 Através do Software Power BI, levantamos os dados necessários para conhecimento e montagem do dashboard sobre as importações e exportações. Com dados conseguimos obter uma pesquisa mais enxuta e eficiente.
-<p><a href="">2ª Sprint</a></p>
+<p><a href="https://github.com/biancadecampos/Automobil-stico/blob/2%C2%AAsprint/AUTO_Conglomerados.pdf">2ª Sprint</a></p>
 
 
 **3ª Sprint**
