@@ -37,16 +37,19 @@
 **1ª Sprint**
 
 O tema abordado é sobre a Cadeia Produtiva Automobilística, apresentamos o Cluster Regional, o objetivo é ampliar as informações sobre os fornecedores, sobre os produtos mais exportados e importados da Região do Vale do Paraíba e a estrutura do grupo é baseada de acordo com a Metodologia SCRUM.
+<p><a href="">1ª Sprint</a></p>
 
 
 **2ª Sprint**
 
 Através do Software Power BI, levantamos os dados necessários para conhecimento e montagem do dashboard sobre as importações e exportações. Com dados conseguimos obter uma pesquisa mais enxuta e eficiente.
+<p><a href="">2ª Sprint</a></p>
 
 
 **3ª Sprint**
 
 Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais eficaz e avançamos como equipe.
+<p><a href="">3ª Sprint</a></p>
 
   
  **4ª Sprint**
