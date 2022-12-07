@@ -57,7 +57,7 @@ Com um conhecimento mais amplo, melhoramos nossas pesquisas, tornando-a mais efi
  É o encerramento do semestre, hora de mostrarmos aos professores tudo aquilo que aprendemos durante este período. Conclusão de mais um ciclo.
   
  <p><a href="https://app.powerbi.com/groups/me/reports/1066aea9-7451-442f-ac87-e043cef51f83/ReportSection">4ª Sprint</a></p>
-  
+ <p><a href="">4ª Sprint</a></p> 
 
   
  </p>
